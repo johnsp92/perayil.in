@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Perayil</title>
+    <link>/</link>
+    <description>Recent content on Perayil</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Sep 2015 15:00:00 +0530</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Audio</title>
+      <link>/audio/</link>
+      <pubDate>Thu, 03 Sep 2015 15:00:00 +0530</pubDate>
+      
+      <guid>/audio/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/kbo48fy8jym3kyu/Speech-25-7-2015 dt01-08 (1).mp3&#34;&gt;Download Audio here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Newspaper Reports</title>
+      <link>/articles/</link>
+      <pubDate>Thu, 03 Sep 2015 12:00:00 +0530</pubDate>
+      
+      <guid>/articles/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./media/CENT1.jpg&#34; class=&#34;half left&#34; &gt;&lt;img src=&#34;./media/CENT2.jpg&#34; class=&#34;half right&#34; &gt;
+&lt;br&gt;
+&lt;img src=&#34;./media/CENT3.jpg&#34; class=&#34;half left&#34; &gt;&lt;img src=&#34;./media/CENT4.jpg&#34; class=&#34;half right&#34; &gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Footprints on the Sands of Time</title>
+      <link>/footprints/</link>
+      <pubDate>Fri, 10 Jul 2015 12:00:00 +0530</pubDate>
+      
+      <guid>/footprints/</guid>
+      <description>&lt;p&gt;Invitation&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./media/Footprints1.jpeg&#34; class=&#34;half left&#34; &gt;&lt;img src=&#34;./media/Footprints2.jpeg&#34; class=&#34;half right&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;CD&lt;/p&gt;
+
+&lt;iframe width=&#34;100%&#34; height=&#34;450&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/123692941&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=true&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

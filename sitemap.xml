@@ -2,24 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/</loc>
-    <lastmod>2015-09-03T15:00:00+05:30</lastmod>
+    <loc>/post/directory/</loc>
+    <lastmod>2017-05-15T21:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/audio/</loc>
-    <lastmod>2015-09-03T15:00:00+05:30</lastmod>
+    <loc>/</loc>
+    <lastmod>2017-05-15T21:00:00+05:30</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/articles/</loc>
-    <lastmod>2015-09-03T12:00:00+05:30</lastmod>
+    <loc>/post/</loc>
+    <lastmod>2017-05-15T21:00:00+05:30</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/footprints/</loc>
-    <lastmod>2015-07-10T12:00:00+05:30</lastmod>
+    <loc>/tags/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
